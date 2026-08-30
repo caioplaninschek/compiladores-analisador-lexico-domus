@@ -1,0 +1,49 @@
+stateDiagram-v2
+    direction LR
+
+    [*] --> INICIO
+
+    INICIO --> INICIO: espaco / newline
+    INICIO --> EM_NUM: digito
+    INICIO --> EM_ID: letra
+    INICIO --> EM_MENOR: menor
+    INICIO --> EM_MAIOR: maior
+    INICIO --> EM_IGUAL: igual
+    INICIO --> EM_EXCLAM: exclamacao
+    INICIO --> EM_BARRA: barra
+    INICIO --> FIM: mais / menos / asterisco / ponto / dois pontos / virgula / abre par / fecha par
+    INICIO --> FIM: EOF ... FIM_ARQUIVO
+    INICIO --> FIM: outro ... ERRO
+
+    EM_NUM --> EM_NUM: digito
+    EM_NUM --> FIM: [outro] ... NUM
+
+    EM_ID --> EM_ID: letra / digito
+    EM_ID --> FIM: [outro] ... ID ou reservada
+
+    EM_MENOR --> FIM: igual ... MENOR_IGUAL
+    EM_MENOR --> FIM: menos ... ATRIBUICAO
+    EM_MENOR --> FIM: [outro] ... MENOR
+
+    EM_MAIOR --> FIM: igual ... MAIOR_IGUAL
+    EM_MAIOR --> FIM: [outro] ... MAIOR
+
+    EM_IGUAL --> FIM: igual ... IGUAL
+    EM_IGUAL --> FIM: [outro] ... ERRO
+
+    EM_EXCLAM --> FIM: igual ... DIFERENTE
+    EM_EXCLAM --> FIM: [outro] ... ERRO
+
+    EM_BARRA --> EM_COMENT: asterisco (zera lexema)
+    EM_BARRA --> FIM: [outro] ... DIV
+
+    EM_COMENT --> EM_FECHA: asterisco
+    EM_COMENT --> EM_COMENT: outro
+    EM_COMENT --> FIM: EOF ... FIM_ARQUIVO
+
+    EM_FECHA --> INICIO: barra
+    EM_FECHA --> EM_FECHA: asterisco
+    EM_FECHA --> EM_COMENT: outro
+    EM_FECHA --> FIM: EOF ... FIM_ARQUIVO
+
+    FIM --> [*]

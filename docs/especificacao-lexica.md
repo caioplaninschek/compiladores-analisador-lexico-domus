@@ -219,7 +219,7 @@ stateDiagram-v2
     EM_NUM --> FIM: [outro] ... NUM
 
     EM_ID --> EM_ID: letra / digito
-    EM_ID --> FIM: [outro] ... ID ou palavra reservada
+    EM_ID --> FIM: [outro] ... ID ou reservada
 
     EM_MENOR --> FIM: igual ... MENOR_IGUAL
     EM_MENOR --> FIM: menos ... ATRIBUICAO
@@ -270,6 +270,13 @@ sintaxe do gerador de diagramas:
 
 Colchetes marcam o caractere de verificação à frente; `...` separa a condição da transição do token
 reconhecido.
+
+A imagem `automato-domus.png`, usada no relatório, é gerada a partir de `automato-domus.mmd` — cópia
+exata do bloco acima — pelo comando:
+
+```
+npx @mermaid-js/mermaid-cli -i automato-domus.mmd -o automato-domus.png -w 2400 -b white -c mermaid-config.json
+```
 
 ---
 

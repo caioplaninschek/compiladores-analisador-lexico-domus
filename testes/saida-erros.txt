@@ -1,0 +1,104 @@
+    1: palavra reservada: atuador
+    1: identificador: temperatura
+    1: simbolo: :
+    1: palavra reservada: analogico
+    1: simbolo: (
+    1: palavra reservada: porta
+    1: numero: 1
+    1: simbolo: )
+    1: simbolo: .
+    2: palavra reservada: sensor
+    2: identificador: claridade
+    2: simbolo: :
+    2: palavra reservada: digital
+    2: simbolo: (
+    2: palavra reservada: porta
+    2: numero: 2
+    2: simbolo: )
+    2: simbolo: .
+    3: palavra reservada: sensor
+    3: identificador: cortina
+    3: simbolo: :
+    3: palavra reservada: digital
+    3: simbolo: (
+    3: palavra reservada: porta
+    3: numero: 3
+    3: simbolo: )
+    3: simbolo: .
+    4: palavra reservada: atuador
+    4: identificador: ventilador
+    4: simbolo: :
+    4: palavra reservada: analogico
+    4: simbolo: (
+    4: palavra reservada: porta
+    4: numero: 2
+    4: simbolo: )
+    4: simbolo: .
+    6: palavra reservada: se
+    6: simbolo: (
+    6: simbolo: (
+    6: simbolo: (
+    6: identificador: temperatura
+    6: simbolo: <
+    6: numero: 30
+    6: simbolo: )
+    6: simbolo: )
+    7: identificador: cortina
+    7: simbolo: <-
+    7: numero: 1
+    7: simbolo: .
+    8: identificador: ventiladora
+    8: simbolo: <-
+    8: numero: 80
+    8: simbolo: .
+    9: palavra reservada: senao
+   10: identificador: cortina
+   10: simbolo: <-
+   10: numero: 0
+   10: simbolo: .
+   11: identificador: ventilador
+   11: simbolo: <-
+   11: numero: 0
+   11: simbolo: .
+   12: palavra reservada: fim_se
+   12: simbolo: .
+   13: identificador: mod
+   13: simbolo: <-
+   13: numero: 4
+   13: ERRO: lexema encontrado: %
+   13: numero: 3
+   13: simbolo: .
+   14: identificador: ccc
+   14: simbolo: <-
+   14: numero: 4
+   14: simbolo: +
+   14: simbolo: .
+   15: identificador: asd
+   15: simbolo: <-
+   15: numero: 8
+   16: identificador: asd
+   16: simbolo: <-
+   16: identificador: outro
+   16: simbolo: +
+   16: numero: 2
+   16: simbolo: .
+   17: palavra reservada: escrever
+   17: simbolo: (
+   17: identificador: asdfg
+   17: simbolo: +
+   17: numero: 2
+   17: simbolo: )
+   17: simbolo: .
+   19: palavra reservada: enquanto
+   19: simbolo: (
+   19: identificador: asd
+   19: simbolo: >
+   19: numero: 1
+   19: simbolo: )
+   20: identificador: asd
+   20: ERRO: lexema encontrado: =
+   20: identificador: asd
+   20: simbolo: -
+   20: numero: 1
+   20: simbolo: .
+   21: fim de arquivo

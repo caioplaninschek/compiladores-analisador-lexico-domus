@@ -1,0 +1,91 @@
+    2: palavra reservada: sensor
+    2: identificador: _sub
+    2: simbolo: :
+    2: palavra reservada: analogico
+    2: simbolo: (
+    2: palavra reservada: porta
+    2: numero: 1
+    2: simbolo: )
+    2: simbolo: .
+    3: palavra reservada: sensor
+    3: identificador: a1b2
+    3: simbolo: :
+    3: palavra reservada: digital
+    3: simbolo: (
+    3: palavra reservada: porta
+    3: numero: 2
+    3: simbolo: )
+    3: simbolo: .
+    4: palavra reservada: se
+    4: simbolo: (
+    4: identificador: a1b2
+    4: simbolo: <=
+    4: numero: 10
+    4: simbolo: )
+    4: palavra reservada: entao
+    5: palavra reservada: escrever
+    5: simbolo: (
+    5: identificador: a1b2
+    5: simbolo: *
+    5: numero: 2
+    5: simbolo: )
+    5: simbolo: .
+    6: palavra reservada: fim_se
+    6: simbolo: .
+    7: palavra reservada: se
+    7: simbolo: (
+    7: identificador: a1b2
+    7: simbolo: >=
+    7: numero: 10
+    7: simbolo: )
+    7: palavra reservada: entao
+    8: palavra reservada: escrever
+    8: simbolo: (
+    8: identificador: a1b2
+    8: simbolo: /
+    8: numero: 2
+    8: simbolo: )
+    8: simbolo: .
+    9: palavra reservada: fim_se
+    9: simbolo: .
+   10: palavra reservada: se
+   10: simbolo: (
+   10: identificador: a1b2
+   10: simbolo: ==
+   10: numero: 10
+   10: simbolo: )
+   10: palavra reservada: entao
+   11: palavra reservada: escrever
+   11: simbolo: (
+   11: identificador: a1b2
+   11: simbolo: ,
+   11: identificador: _sub
+   11: simbolo: )
+   11: simbolo: .
+   12: palavra reservada: fim_se
+   12: simbolo: .
+   13: palavra reservada: se
+   13: simbolo: (
+   13: identificador: a1b2
+   13: simbolo: !=
+   13: numero: 10
+   13: simbolo: )
+   13: palavra reservada: entao
+   14: palavra reservada: escrever
+   14: simbolo: (
+   14: identificador: _sub
+   14: simbolo: )
+   14: simbolo: .
+   15: palavra reservada: fim_se
+   15: simbolo: .
+   16: palavra reservada: fim_se
+   16: identificador: fim
+   16: palavra reservada: se
+   17: identificador: z
+   17: ERRO: lexema encontrado: !
+   17: identificador: w
+   18: identificador: b
+   18: simbolo: <-
+   18: numero: 2
+   18: simbolo: .
+   20: fim de arquivo

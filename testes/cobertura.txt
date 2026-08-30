@@ -1,0 +1,20 @@
+/* Casos que os arquivos de teste do professor nao exercitam */
+sensor _sub: analogico(porta 1).
+sensor a1b2: digital(porta 2).
+se (a1b2 <= 10) entao
+    escrever(a1b2 * 2).
+fim_se .
+se (a1b2 >= 10) entao
+    escrever(a1b2 / 2).
+fim_se .
+se (a1b2 == 10) entao
+    escrever(a1b2 , _sub).
+fim_se .
+se (a1b2 != 10) entao
+    escrever(_sub).
+fim_se .
+fim_se fim se
+z ! w
+/* c1 /* c2 */ b <- 2 .
+/* comentario sem fechamento engole o resto do arquivo
+escrever(nunca).

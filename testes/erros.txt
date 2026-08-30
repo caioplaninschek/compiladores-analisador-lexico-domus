@@ -1,0 +1,21 @@
+atuador temperatura: analogico(porta 1).
+sensor claridade:digital(porta 2).
+sensor cortina: digital (porta 3).
+atuador ventilador:analogico(porta 2).
+
+se (((temperatura < 30)) 
+	cortina <- 1.
+    ventiladora <- 80.
+senao
+	cortina <- 0.
+    ventilador <- 0.
+fim_se .
+mod <- 4 % 3.
+ccc <- 4 + .
+asd <- 8
+asd <- outro + 2 .
+escrever(asdfg+2) .
+
+enquanto (asd>1)
+  asd = asd -1.
+

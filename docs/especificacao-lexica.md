@@ -269,7 +269,9 @@ sintaxe do gerador de diagramas:
 | `fecha par` | `)` |
 
 Colchetes marcam o caractere de verificação à frente; `...` separa a condição da transição do token
-reconhecido.
+reconhecido. Cada transição rotulada `[outro]` resume todas as classes de caractere que encerram o
+token, o fim de arquivo inclusive — e é só nesse caso que não há caractere a devolver, como detalha a
+tabela da seção 3.4.
 
 A imagem `automato-domus.png`, usada no relatório, é gerada a partir de `automato-domus.mmd` — cópia
 exata do bloco acima — pelo comando:

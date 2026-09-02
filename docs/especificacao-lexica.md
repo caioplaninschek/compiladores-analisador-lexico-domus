@@ -323,6 +323,13 @@ de avaliação. Ambas as divergências são deliberadas.
 onde deveria imprimir o *lexema*, e com isso `8`, `80` e `30` tornam-se indistinguíveis na saída.
 Preservar o valor é exatamente o que o enunciado pede ao mencionar valor/atributo.
 
+**Confirmação do professor (2026-09-01).** Consultado sobre os dois pontos, o professor respondeu que
+o tratamento do número no exemplo estava errado — "número não é palavra reservada; é para indicar que
+é um número e mostrar seu valor" — e que uma versão corrigida seria disponibilizada. Sobre o fim do
+arquivo, esclareceu que a sinalização não é obrigatória, já que o encerramento da análise indica o
+final, mas que exibi-la não constitui problema, e que a versão corrigida passaria a exibi-la. As duas
+decisões acima, portanto, coincidem com a referência corrigida.
+
 ---
 
 ## 5. Erros léxicos

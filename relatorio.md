@@ -1,53 +1,69 @@
-UNIVERSIDADE VEIGA DE ALMEIDA
-
-BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO
-
-CAIO PARADA OLIVEIRA PLANINSCHEK - 1240205596
-
-ANALISADOR LÉXICO DA LINGUAGEM DOMUS
-
-RIO DE JANEIRO
-
-2026
-
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t xml:space="preserve">UNIVERSIDADE VEIGA DE ALMEIDA – UVA</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t xml:space="preserve">BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">ANALISADOR LÉXICO DA LINGUAGEM DOMUS</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">CAIO PARADA OLIVEIRA PLANINSCHEK - 1240205596</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">RIO DE JANEIRO</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">2026</w:t></w:r></w:p>
+<w:p><w:pPr><w:pageBreakBefore/><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">CAIO PARADA OLIVEIRA PLANINSCHEK - 1240205596</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">ANALISADOR LÉXICO DA LINGUAGEM DOMUS</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:spacing w:line="240" w:lineRule="auto"/><w:ind w:left="4536" w:firstLine="0"/><w:jc w:val="both"/><w:rPr><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">Relatório do Trabalho 1 apresentado como parte da avaliação A1 do componente curricular Compiladores do Curso de Ciência da Computação da Universidade Veiga de Almeida.</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:spacing w:line="240" w:lineRule="auto"/><w:ind w:left="4536" w:firstLine="0"/><w:jc w:val="both"/><w:rPr><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">Professor: Fábio Contarini Carneiro</w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:line="240" w:lineRule="auto"/><w:ind w:left="4536" w:firstLine="0"/><w:jc w:val="both"/><w:rPr><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">Semestre: 2026.2</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">RIO DE JANEIRO</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/></w:pPr></w:p>
+<w:p><w:pPr><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">2026</w:t></w:r></w:p>
+<w:p><w:pPr><w:keepNext/><w:pageBreakBefore/><w:spacing w:after="360"/><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">RESUMO</w:t></w:r></w:p>
 ```
-
-CAIO PARADA OLIVEIRA PLANINSCHEK - 1240205596
-
-ANALISADOR LÉXICO DA LINGUAGEM DOMUS
-
-Relatório do Trabalho 1 desenvolvido para cumprimento do componente curricular Compiladores do Curso de Ciência da Computação da Universidade Veiga de Almeida.
-
-Professor: Fábio Contarini Carneiro
-
-Semestre: 2026.2
-
-RIO DE JANEIRO
-
-2026
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-# RESUMO {.unnumbered}
 
 Este relatório documenta a construção de um analisador léxico para a linguagem Domus, uma linguagem voltada à descrição de sensores e atuadores em ambientes automatizados. O analisador foi implementado manualmente na linguagem C, sem o uso de gerador automático, a partir de um autômato finito determinístico de onze estados derivado das definições regulares da linguagem. O programa lê o código-fonte de um arquivo externo, informado na linha de comando, e expõe a função `getToken`, chamada repetidamente até que o fim do arquivo seja alcançado; para cada token reconhecido são exibidos o número da linha em que ocorreu, a sua categoria e, quando existe, o seu valor. A linguagem possui trinta e três tipos de token, distribuídos entre treze palavras reservadas, dezesseis símbolos especiais, dois tokens multicaractere e dois tokens de controle. A estratégia de implementação segue a estrutura de varredura apresentada por Louden e adotada no material da disciplina: um laço sobre os caracteres do arquivo com um comando `switch` duplamente aninhado, no qual o nível externo representa o estado corrente do autômato e o nível interno decide a transição. O reconhecimento da maior subcadeia possível é obtido pela leitura de um caractere de verificação à frente, devolvido à entrada quando não pertence ao token. As palavras reservadas não recebem estados próprios: são reconhecidas como identificador e reclassificadas por consulta a uma tabela. O analisador foi validado contra cinco arquivos de teste, entre eles os três distribuídos pelo professor, e a sua saída foi comparada com a do analisador de referência da disciplina.
 
 Palavras-chave: compiladores; análise léxica; autômato finito determinístico; linguagem Domus; linguagem C.
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-# SUMÁRIO {.unnumbered}
-
-*[Inserir aqui o sumário automático do Word: guia Referências, botão Sumário.]*
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:keepNext/><w:pageBreakBefore/><w:spacing w:after="360"/><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">SUMÁRIO</w:t></w:r></w:p>
+<w:p><w:pPr><w:pStyle w:val="Sumrio1"/><w:ind w:firstLine="0"/></w:pPr><w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r><w:r><w:instrText xml:space="preserve"> TOC \o "1-3" \h \z \u </w:instrText></w:r><w:r><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:t xml:space="preserve">Atualize este campo no Word: Ctrl+A e depois F9.</w:t></w:r><w:r><w:fldChar w:fldCharType="end"/></w:r></w:p>
+<w:p><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/><w:rPr><w:sz w:val="2"/><w:szCs w:val="2"/></w:rPr><w:sectPr><w:type w:val="nextPage"/><w:pgSz w:code="9" w:h="16838" w:w="11906"/><w:pgMar w:bottom="1417" w:footer="709" w:gutter="0" w:header="709" w:left="1701" w:right="1133" w:top="1417"/><w:cols w:space="708"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr></w:p>
 ```
 
 # INTRODUÇÃO
@@ -62,10 +78,6 @@ A opção pela implementação manual, em vez do uso de um gerador automático c
 
 O relatório está organizado da seguinte forma. O capítulo 2 apresenta os lexemas e os tokens da linguagem Domus, com as definições regulares que os descrevem. O capítulo 3 detalha a estratégia adotada no desenvolvimento, incluindo o autômato finito determinístico, a sua tabela de transição e a forma como ele foi transposto para código. O capítulo 4 descreve como compilar e executar o analisador. O capítulo 5 apresenta e discute os resultados obtidos na execução dos programas de teste. O capítulo 6 registra as limitações conhecidas e as decisões de projeto que as motivaram. Por fim, o capítulo 7 apresenta as considerações finais.
 
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
 # LEXEMAS E TOKENS DA LINGUAGEM DOMUS
 
 Este capítulo apresenta o vocabulário da linguagem Domus. A distinção entre os três conceitos envolvidos é o ponto de partida de toda a análise léxica e vale ser fixada antes das tabelas. O **padrão** é a regra que descreve a forma de uma classe de cadeias; o **lexema** é a cadeia concreta que aparece no programa-fonte e que casa com esse padrão; o **token** é o nome da classe, o símbolo que o analisador léxico devolve ao seu chamador. Na linha `sensor temperatura: analogico(porta 1).`, a cadeia `temperatura` é um lexema, o padrão que ela satisfaz é o de identificador, e o token devolvido é `ID`.
@@ -78,14 +90,18 @@ A linguagem possui trinta e três tipos de token, distribuídos em quatro catego
 
 São dois os tokens que não correspondem a construções escritas pelo programador, mas a condições encontradas durante a varredura.
 
+::: {custom-style="caption"}
 Quadro 1: Tokens de controle
-
-Fonte: autor
+:::
 
 | Token | Lexema | Atributo |
 |---|---|---|
 | `FIM_ARQUIVO` | nenhum; corresponde à condição de fim de entrada | — |
 | `ERRO` | qualquer caractere ou sequência não reconhecida | o lexema ofensor |
+
+::: {custom-style="caption"}
+Fonte: autor
+:::
 
 O token `FIM_ARQUIVO` é o que encerra o laço de varredura do programa principal. O token `ERRO` é devolvido quando o autômato encontra uma cadeia que não pertence à linguagem; a sua ocorrência não interrompe a análise, conforme discutido na seção 5.2.
 
@@ -93,9 +109,9 @@ O token `FIM_ARQUIVO` é o que encerra o laço de varredura do programa principa
 
 A linguagem possui treze palavras reservadas. Todas têm lexema fixo, coincidente com o nome do token, e nenhuma possui atributo.
 
+::: {custom-style="caption"}
 Quadro 2: Palavras reservadas da linguagem Domus
-
-Fonte: autor
+:::
 
 | Token | Lexema | Papel na linguagem |
 |---|---|---|
@@ -113,28 +129,36 @@ Fonte: autor
 | `LER` | `ler` | comando de entrada |
 | `ESCREVER` | `escrever` | comando de saída |
 
+::: {custom-style="caption"}
+Fonte: autor
+:::
+
 A comparação entre um lexema e a lista de palavras reservadas é sensível a maiúsculas e minúsculas. A especificação da linguagem lista todas as palavras-chave em minúsculas, e o analisador trata `SENSOR` e `Sensor` como identificadores comuns. A decisão está registrada como tal na seção 6.4.
 
 ## Tokens multicaractere
 
 São os únicos tokens cujo lexema varia de ocorrência para ocorrência e, por consequência, os únicos que carregam atributo.
 
+::: {custom-style="caption"}
 Quadro 3: Tokens multicaractere
-
-Fonte: autor
+:::
 
 | Token | Padrão | Atributo | Exemplo de lexema |
 |---|---|---|---|
 | `ID` | identificador | o nome do identificador | `temperatura`, `_sub`, `a1b2` |
 | `NUM` | numero | o valor inteiro lido | `1`, `30`, `80` |
 
+::: {custom-style="caption"}
+Fonte: autor
+:::
+
 ## Símbolos especiais
 
 A linguagem possui dezesseis símbolos especiais. Onze deles têm um único caractere e cinco têm dois.
 
+::: {custom-style="caption"}
 Quadro 4: Símbolos especiais da linguagem Domus
-
-Fonte: autor
+:::
 
 | Token | Lexema | Token | Lexema |
 |---|---|---|---|
@@ -146,6 +170,10 @@ Fonte: autor
 | `MENOR_IGUAL` | `<=` | `VIRGULA` | `,` |
 | `MAIOR` | `>` | `ABRE_PAR` | `(` |
 | `MAIOR_IGUAL` | `>=` | `FECHA_PAR` | `)` |
+
+::: {custom-style="caption"}
+Fonte: autor
+:::
 
 Os cinco símbolos de dois caracteres — `<=`, `>=`, `==`, `!=` e `<-` — são a razão pela qual o autômato precisa de estados intermediários e de um mecanismo de verificação à frente, tratados no capítulo 3. Somando as quatro categorias, a linguagem totaliza 2 + 13 + 2 + 16 = 33 tipos de token.
 
@@ -173,10 +201,6 @@ A terceira é que os comentários não são aninhados e podem atravessar linhas.
 
 Por fim, o espaço em branco é separador e nada mais: é descartado, servindo apenas para delimitar identificadores, números e palavras reservadas. O retorno de carro foi incluído na classe *espaco* para que arquivos-fonte gravados com terminação de linha CRLF sejam analisados corretamente também fora do ambiente Windows.
 
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
 # ESTRATÉGIA ADOTADA
 
 Este capítulo descreve como as definições regulares do capítulo anterior foram convertidas em um programa. O percurso tem quatro etapas: a construção de um autômato finito determinístico que reconheça as classes de cadeia da linguagem; a definição da sua tabela de transição; a transposição direta dessa tabela para código, por meio de um comando `switch` duplamente aninhado; e o tratamento dos dois pontos em que o reconhecimento da maior subcadeia possível exige olhar um caractere à frente.
@@ -185,9 +209,9 @@ Este capítulo descreve como as definições regulares do capítulo anterior for
 
 O autômato construído possui onze estados. Um deles é o estado inicial, um é o estado final, e os nove restantes representam situações em que o analisador já leu parte de um token mas ainda não sabe qual token é.
 
+::: {custom-style="caption"}
 Quadro 5: Estados do autômato
-
-Fonte: autor
+:::
 
 | Estado | Papel |
 |---|---|
@@ -203,23 +227,31 @@ Fonte: autor
 | `EM_FECHA` | dentro de um comentário, leu `*`; verifica se o comentário fecha |
 | `FIM` | estado final; um token foi reconhecido e é devolvido ao chamador |
 
+::: {custom-style="caption"}
+Fonte: autor
+:::
+
 Os cinco estados intermediários `EM_MENOR`, `EM_MAIOR`, `EM_IGUAL`, `EM_EXCLAM` e `EM_BARRA` existem por um único motivo: ao ler um `<`, o analisador ainda não sabe se está diante do operador de comparação, do operador de atribuição `<-` ou do operador `<=`. A decisão só pode ser tomada depois de ler o caractere seguinte. Os dois estados `EM_COMENT` e `EM_FECHA` implementam o descarte de comentários, e o segundo é necessário porque o fechamento `*/` também tem dois caracteres.
 
 Na Figura 1 é apresentado o diagrama de estados completo do autômato. Os colchetes marcam as transições em que o caractere lido não pertence ao token e é devolvido à entrada, e as reticências separam a condição da transição do token reconhecido.
 
 ![](docs/automato-domus.png){width=15.5cm}
 
+::: {custom-style="caption"}
 Figura 1: Autômato finito determinístico do analisador léxico da linguagem Domus
+:::
 
+::: {custom-style="caption"}
 Fonte: autor
+:::
 
 ## Tabela de transição
 
 O Quadro 6 apresenta as transições do autômato. Para mantê-lo legível, as classes de caractere que produzem o mesmo efeito em um dado estado foram agrupadas na entrada `demais classes`. A marca `[devolve]` indica que o caractere lido não pertence ao token corrente e retorna à entrada, tornando-se o primeiro caractere da próxima chamada.
 
+::: {custom-style="caption"}
 Quadro 6: Transições do autômato
-
-Fonte: autor
+:::
 
 | Estado | Classe de entrada | Próximo estado | Token reconhecido |
 |---|---|---|---|
@@ -256,6 +288,10 @@ Fonte: autor
 | `EM_FECHA` | `*` | `EM_FECHA` | — |
 | `EM_FECHA` | fim de arquivo | `FIM` | `FIM_ARQUIVO` |
 | `EM_FECHA` | demais classes | `EM_COMENT` | — |
+
+::: {custom-style="caption"}
+Fonte: autor
+:::
 
 O autômato é total: em todo estado, toda classe de caractere possui destino definido. Nenhuma entrada, por mais inesperada que seja, é capaz de travar o analisador ou levá-lo a um estado indefinido.
 
@@ -347,9 +383,9 @@ static TokenType reservedLookup(char *s)
 
 O código está distribuído em seis arquivos, na mesma organização do analisador da linguagem TINY distribuído na disciplina. A separação isola o autômato, que é a parte específica de Domus, das partes que não dependem da linguagem.
 
+::: {custom-style="caption"}
 Quadro 7: Arquivos do código-fonte
-
-Fonte: autor
+:::
 
 | Arquivo | Conteúdo |
 |---|---|
@@ -360,6 +396,10 @@ Fonte: autor
 | `util.c` | impressão da categoria e do lexema de cada token |
 | `main.c` | programa de teste; abre o arquivo e chama `getToken` até o fim |
 
+::: {custom-style="caption"}
+Fonte: autor
+:::
+
 A enumeração `TokenType`, declarada em `globals.h`, é o contrato entre o analisador léxico e o restante do compilador. Manter esse contrato em um tipo próprio, e não em constantes espalhadas, é o que permitirá ligar `getToken` a um analisador sintático em trabalhos posteriores sem alterar o código da varredura.
 
 O programa principal reduz-se ao laço exigido pelo enunciado:
@@ -369,10 +409,6 @@ O programa principal reduz-se ao laço exigido pelo enunciado:
     do {
         token = getToken();
     } while (token != FIM_ARQUIVO);
-```
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
 # COMPILAÇÃO E EXECUÇÃO
@@ -413,9 +449,9 @@ Cada linha da saída tem o formato a seguir, no qual o número da linha do progr
 
 O Quadro 8 relaciona cada categoria de token à linha que ela produz.
 
+::: {custom-style="caption"}
 Quadro 8: Formato da saída por categoria de token
-
-Fonte: autor
+:::
 
 | Categoria | Linha impressa |
 |---|---|
@@ -426,15 +462,15 @@ Fonte: autor
 | erro léxico | `ERRO: lexema encontrado: <lexema>` |
 | fim de arquivo | `fim de arquivo` |
 
+::: {custom-style="caption"}
+Fonte: autor
+:::
+
 O programa devolve o código de saída zero quando a análise se completa. Devolve o código um, com mensagem na saída de erro padrão, em duas situações: quando o número de argumentos é diferente de um e quando o arquivo informado não pode ser aberto.
 
 ```
 Uso: analisador_domus arquivo_fonte
 Erro ao abrir arquivo: "naoexiste.txt"
-```
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
 # RESULTADOS DA EXECUÇÃO
@@ -522,10 +558,6 @@ Junto ao material da disciplina foi distribuído um executável de exemplo, `Dom
 
 A comparação foi feita sobre as saídas normalizadas, isto é, desconsiderando as duas diferenças deliberadas de formato descritas nas seções 6.2 e 6.3. Nessas condições, a diferença entre as duas saídas é **vazia nos cinco arquivos**: mesma sequência de tokens, mesmas categorias, mesmos lexemas e mesmos números de linha, incluindo os arquivos que exercitam comentários de múltiplas linhas, símbolos de dois caracteres e erros léxicos.
 
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
 # LIMITAÇÕES E DECISÕES DE PROJETO
 
 Este capítulo registra os limites conhecidos do analisador e as decisões que os produziram. Algumas são limitações herdadas do comportamento definido para a linguagem; outras são escolhas feitas neste trabalho, que poderiam ter sido diferentes.
@@ -572,10 +604,6 @@ O deslocamento não afeta a linha do próprio fim de arquivo, que é reportada c
 
 Por fim, e por definição, o analisador reconhece apenas a estrutura léxica dos programas. Parênteses desbalanceados, comandos sem ponto final, identificadores usados sem declaração prévia e incompatibilidades de tipo não são detectados, e não deveriam sê-lo: pertencem às fases de análise sintática e semântica. A seção 5.2 discute o caso concreto em que essa fronteira aparece.
 
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
 # CONSIDERAÇÕES FINAIS
 
 O trabalho produziu um analisador léxico completo para a linguagem Domus, implementado manualmente em linguagem C a partir de um autômato finito determinístico de onze estados. Os objetivos propostos na introdução foram atendidos: o programa lê o código-fonte de um arquivo externo informado na linha de comando, expõe a função `getToken` chamada repetidamente até o fim do arquivo, e exibe para cada token a sua categoria, o seu valor quando existe e a linha do programa-fonte em que ocorre. O código não depende de bibliotecas externas nem de ambiente de desenvolvimento, e compila sem advertências sob as opções `-Wall -ansi -pedantic`.
@@ -587,10 +615,8 @@ O caminho percorrido tornou concreta a razão pela qual a análise léxica é um
 O produto do trabalho está preparado para essa continuidade. A enumeração `TokenType` funciona como contrato entre a varredura e o restante do compilador, e a função `getToken` já tem a assinatura esperada por um analisador sintático, o que permitirá acoplá-la a ele sem alterações no código da varredura.
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:keepNext/><w:pageBreakBefore/><w:spacing w:after="360"/><w:ind w:firstLine="0"/><w:jc w:val="center"/><w:outlineLvl w:val="0"/><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">REFERÊNCIAS</w:t></w:r></w:p>
 ```
-
-# REFERÊNCIAS {.unnumbered}
 
 AHO, A. V.; LAM, M. S.; SETHI, R.; ULLMAN, J. D. **Compiladores: princípios, técnicas e ferramentas.** 2. ed. São Paulo: Pearson Addison-Wesley, 2008.
 
